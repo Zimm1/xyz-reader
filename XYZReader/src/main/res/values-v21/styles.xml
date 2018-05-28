@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Bacon.Main" parent="Theme.Bacon">
+        <item name="android:windowExitTransition">@transition/grid_exit</item>
+    </style>
+</resources>
